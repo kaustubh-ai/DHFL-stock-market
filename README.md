@@ -10,7 +10,7 @@
 
 <a id='motivation'></a>
 
-## 1. Project Motivation
+## Project Motivation
 
 Ah, the mystical world of stock markets... it has always intrigued me. This project is my sincere attempt to de-mystify it in a data-driven and visual way that is easy on the eyes and the mind, but still retains all the core concepts.
 
