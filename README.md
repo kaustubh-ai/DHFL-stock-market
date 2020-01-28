@@ -7,7 +7,6 @@
 - [Contribute](#contribute)
 - [Acknowledgement](#ack)
 
-***
 
 <a id='motivation'></a>
 
